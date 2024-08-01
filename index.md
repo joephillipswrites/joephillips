@@ -11,9 +11,9 @@
 - Used to deploying documentation to static hosting services such as GitLab Pages, GitHub Pages, and Netlify.
 - Working knowledge of automating site builds using static site generators such as Hugo and Jekyll.
 4. **Iterative development & maintenance**
-- Regularly monitoring documentation for issues and fixes.
-- Collecting user feedback.
-- Updating documentation to reflect product changes and priority user needs.
+- Experienced at regularly monitoring documentation for issues and fixes.
+- Passionate about collecting feedback and understanding authentic user needs.
+- Always seeking opportunities to update documentation to reflect product changes and priority user needs.
 
 ## Tools and tech I know
 
