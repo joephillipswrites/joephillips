@@ -21,4 +21,4 @@
 - **Version Control:** Git, GitHub, GitLab
 - **CI/CD:** GitHub Actions, GitLab CI/CD, Travis CI
 - **Static Site Generators:** Hugo, Jekyll, MkDocs, Docusaurus, Publii
-- **Hosting:** GitHub Pages, GitLab Pages, Netlifygit add .gitlab-ci.yml
+- **Hosting:** GitHub Pages, GitLab Pages, Netlify
